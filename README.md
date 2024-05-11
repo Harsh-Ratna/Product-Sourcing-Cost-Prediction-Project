@@ -24,8 +24,7 @@ The Shape of the original Train Data is (550176, 8).
 2. **Data Preprocessing:** Cleanse and preprocessing data (Removing Outliers, Renaming column, Transforming data etc.)
 3. **Feature Engineering:** Extract meaningful features and engineer new ones to enhance model performance.
 4. **Model Selection and fine-tuning:** Experiment with different regression models such as Linear Regression, Random Forest, and Gradient Boosting to find the best fit.
-5. **Model Evaluation:** Evaluate model performance using metrics like Mean Absolute Error (MAE) and R-squared to assess accuracy and generalization capability.
-6. **Interpretation:** Interpret model coefficients and feature importance to gain actionable insights into cost drivers. 📈
+5. **Model Evaluation:** Evaluate model performance using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), RMSE and R-squared to assess accuracy and generalization capability.
 
 ## Files 📂
 - `data`: Contains the dataset in csv format used for this project.
