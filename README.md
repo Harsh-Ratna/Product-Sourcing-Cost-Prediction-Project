@@ -3,6 +3,9 @@
 ## Overview 📊
 In this project, we aim to predict the sourcing costs for different product combinations using regression analysis. By leveraging machine learning techniques, we'll uncover insights into the factors influencing sourcing costs and build models to improve cost estimation accuracy.
 
+https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Actual%20vs%20Predicted%20Values%20Random%20Forest.png
+<p align='center'><a href="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Actual%20vs%20Predicted%20Values%20Random%20Forest.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Actual%20vs%20Predicted%20Values%20Random%20Forest.png" height="400" /></a></p>
+
 ## Dataset 📋
 The dataset used for this project contains the following columns:
 - Product Name
