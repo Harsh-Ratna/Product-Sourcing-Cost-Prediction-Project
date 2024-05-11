@@ -38,7 +38,7 @@ Here are some snippets of the graphs and visualizations plotted.
 Distribution of Sourcing Cost:
 <p align='center'><a href="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Distribution%20of%20Sourcing%20Cost.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Distribution%20of%20Sourcing%20Cost.png" height="300" /></a></p>
 
-Average of Sourcing Cost by Sourcing Channel:
+Average of Sourcing Cost by Product Name and Sourcing Channel:
 <p align='center'><a href="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Average%20of%20sourcing%20cost%20by%20product%20name%20and%20Sourcing%20Channel.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Average%20of%20sourcing%20cost%20by%20product%20name%20and%20Sourcing%20Channel.png" height="350" /></a></p>
 
 Average Sourcing Cost by Sourcing Channel Month-wise growth:
