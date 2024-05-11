@@ -41,8 +41,6 @@ Distribution of Sourcing Cost:
 Average of Sourcing Cost by Product Name and Sourcing Channel:
 <p align='center'><a href="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Average%20of%20sourcing%20cost%20by%20product%20name%20and%20Sourcing%20Channel.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Average%20of%20sourcing%20cost%20by%20product%20name%20and%20Sourcing%20Channel.png" height="350" /></a></p>
 
-Average Sourcing Cost by Sourcing Channel Month-wise growth:
-<p align='center'><a href="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Average%20of%20sourcing%20cost%20by%20product%20name%20and%20Sourcing%20Channel.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Average%20of%20sourcing%20cost%20by%20product%20name%20and%20Sourcing%20Channel.png" height="350" /></a></p>
 
 ## Results 📈
 R2 Scores:
