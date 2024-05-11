@@ -32,7 +32,12 @@ The Shape of the original Train Data is (550176, 8).
 - `Data_Modelling.ipynb`: Python notebook concerned with application of different Models, fine-tuning and visualization of results.
 
 ## Results 📈
-<p align='center'><a href="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/R2%20Score%20Comparison%20of%20different%20Models.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/R2%20Score%20Comparison%20of%20different%20Models.png" height="300" /></a></p>
+R2 Scores:
+<p align='center'><a href="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/R2%20Score%20Comparison%20of%20different%20Models.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/R2%20Score%20Comparison%20of%20different%20Models.png" height="500" /></a></p>
+
+Errors:
+
+<p align='center'><a href="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Error%20Comparison%20of%20Models.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Error%20Comparison%20of%20Models.png" height="500" /></a></p>
 
 ## Conclusion 🎉
 In conclusion, the Sourcing Cost Prediction Project provides valuable insights into optimizing procurement processes and improving cost estimation accuracy. Let's continue innovating and driving positive change together! 🌟
