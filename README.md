@@ -33,6 +33,15 @@ The Shape of the original Train Data is (550176, 8).
 - `Data_Exploration_and_Analysis.ipynb`: Python Notebook for Exploration, Univariate, Multivariate and in-depth Analysis of data.
 - `Data_Modelling.ipynb`: Python notebook concerned with application of different Models, fine-tuning and visualization of results.
 
+## Exploratory Data Analysis💡
+Here are some snippets of the graphs and visualizations plotted.
+
+<p align='center'><a href="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Distribution%20of%20Sourcing%20Cost.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Distribution%20of%20Sourcing%20Cost.png" height="500" /></a></p>
+
+<p align='center'><a href="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Average%20of%20sourcing%20cost%20by%20product%20name%20and%20Sourcing%20Channel.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Average%20of%20sourcing%20cost%20by%20product%20name%20and%20Sourcing%20Channel.png" height="500" /></a></p>
+
+<p align='center'><a href="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Average%20of%20sourcing%20cost%20by%20product%20name%20and%20Sourcing%20Channel.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Average%20of%20sourcing%20cost%20by%20product%20name%20and%20Sourcing%20Channel.png" height="500" /></a></p>
+
 ## Results 📈
 R2 Scores:
 <p align='center'><a href="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/R2%20Score%20Comparison%20of%20different%20Models.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/R2%20Score%20Comparison%20of%20different%20Models.png" height="500" /></a></p>
