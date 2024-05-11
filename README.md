@@ -1,10 +1,21 @@
-# 📈 Sourcing Cost Prediction Project 🛒
+# 📈 Sourcing Cost Prediction Project 
 
 ## Overview 📊
-Welcome to the Sourcing Cost Prediction Project! 🚀 In this project, we aim to predict the sourcing costs for different products using regression analysis. By leveraging machine learning techniques, we'll uncover insights into the factors influencing sourcing costs and build models to improve cost estimation accuracy.
+In this project, we aim to predict the sourcing costs for different product combinations using regression analysis. By leveraging machine learning techniques, we'll uncover insights into the factors influencing sourcing costs and build models to improve cost estimation accuracy.
 
 ## Dataset 📋
-The dataset contains valuable information about various product attributes and their corresponding sourcing costs. Let's dive into the data and uncover hidden patterns to optimize procurement processes! 🕵️‍♂️
+The dataset used for this project contains the following columns:
+- Product Name
+- Manufacturer
+- Area Code
+- Sourcing Channel
+- Product Size
+- Product Type
+- Month of Sourcing
+- Sourcing Cost
+  
+Except the target variable(Sourcing Cost) all the other features are categorical in nature. Month of Sourcing Column indicates the month in which the product combination is sourced.
+The Shape of the original Train Data is (550176, 8).
 
 ## Methodology 🔍
 1. **Data Exploration:** Explore the dataset to understand variable distributions and identify key insights.
