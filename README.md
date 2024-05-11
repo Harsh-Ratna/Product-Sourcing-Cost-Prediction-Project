@@ -50,10 +50,4 @@ Errors:
 
 <p align='center'><a href="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Error%20Comparison%20of%20Models.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Error%20Comparison%20of%20Models.png" height="500" /></a></p>
 
-## Conclusion 🎉
-In conclusion, the Sourcing Cost Prediction Project provides valuable insights into optimizing procurement processes and improving cost estimation accuracy. Let's continue innovating and driving positive change together! 🌟
-
-## Acknowledgements 🙏
-- Special thanks to all contributors and collaborators who made this project possible. Together, we're shaping the future of procurement! 🌍
-
 
