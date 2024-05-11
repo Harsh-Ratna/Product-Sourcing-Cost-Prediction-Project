@@ -44,10 +44,10 @@ Average of Sourcing Cost by Product Name and Sourcing Channel:
 
 ## Results 📈
 R2 Scores:
-<p align='center'><a href="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/R2%20Score%20Comparison%20of%20different%20Models.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/R2%20Score%20Comparison%20of%20different%20Models.png" height="300" /></a></p>
+<p align='center'><a href="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/R2%20Score%20Comparison%20of%20different%20Models.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/R2%20Score%20Comparison%20of%20different%20Models.png" height="350" /></a></p>
 
 Errors:
 
-<p align='center'><a href="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Error%20Comparison%20of%20Models.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Error%20Comparison%20of%20Models.png" height="500" /></a></p>
+<p align='center'><a href="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Error%20Comparison%20of%20Models.png" target="blank"><img align="center" src="https://github.com/Harsh-Ratna/Harsh_Ratna_AIML_Assessment/blob/main/output/Error%20Comparison%20of%20Models.png" height="350" /></a></p>
 
 
