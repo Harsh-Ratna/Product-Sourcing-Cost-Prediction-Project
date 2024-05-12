@@ -24,11 +24,11 @@ The Shape of the original Train Data is (550176, 8).
 2. **Data Preprocessing:** Cleanse and preprocessing data (Removing Outliers, Renaming column, Transforming data etc.)
 3. **Feature Engineering:** Extract meaningful features and engineer new ones to enhance model performance.
 4. **Model Selection and fine-tuning:** Experiment with different regression models such as Linear Regression, Polynomial Regression, Random Forest, XGBoost etc. to find the best fit.
-5. **Model Evaluation:** Evaluate model performance using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), RMSE and R-squared to assess accuracy and generalization capability.
+5. **Model Evaluation:** Evaluate model performance using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), RMSE and R^2 Score to assess accuracy and generalization capability.
 
 ## Files 📂
-- `data`: Contains the dataset in csv format used for this project.
-- `Source Code`: Contains the jupyter notebook code for Data Analysis and Data Modelling.
+- `data folder`: Contains the dataset in csv format used for this project.
+- `Source Code folder`: Contains the jupyter notebook code for Data Analysis and Data Modelling.
 - `Data_Exploration_and_Analysis.ipynb`: Python Notebook for Exploration, Univariate, Multivariate and in-depth Analysis of data.
 - `Data_Modelling.ipynb`: Python notebook concerned with application of different Models, fine-tuning and visualization of results.
 
